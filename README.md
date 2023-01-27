@@ -7,11 +7,11 @@
 ### 안녕하세요! 🙇‍♂
 프론트엔드 개발자를 꿈꾸며 꾸준히 성장 중인 장경은입니다. 💻  <br /><br />
 
-📚 Study Record 📚
+### 📚 Study Record 📚
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://synonymous-island-173.notion.site/Kyung-Eun-s-Study-Note-0740f1d7a11947b19dd516b01b07fd21)  <br /><br />
 
-🛠 Skills 🛠
+### 🛠 Skills 🛠
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)  <br /><br />
 
