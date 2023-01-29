@@ -5,11 +5,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJKyEun&count_bg=%237ED6DF&title_bg=%23686DE0&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/JKyEun)
   
 ### 안녕하세요! 🙇‍♂
-프론트엔드 개발자를 꿈꾸며 꾸준히 성장 중인 장경은입니다. 💻  <br /><br />
+프론트엔드 개발자를 꿈꾸며 꾸준히 성장 중인 장경은입니다. 💻  <br /><br /><br />
 
 ### 📚 Study Record 📚
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://synonymous-island-173.notion.site/Kyung-Eun-s-Study-Note-0740f1d7a11947b19dd516b01b07fd21)  <br /><br />
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://synonymous-island-173.notion.site/Kyung-Eun-s-Study-Note-0740f1d7a11947b19dd516b01b07fd21)  <br /><br /><br />
 
 ### 🛠 Skills 🛠
 
