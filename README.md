@@ -1,21 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:22a6b3,100:7ed6df&height=200&section=header&text=Jang%20Kyung-eun&desc=JKyEun&descAlign=83&descAlignY=50&descSize=23&animation=fadeIn&fontSize=70&fontAlign=65&fontAlignY=30&fontColor=ecf0f1)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJKyEun&count_bg=%237ED6DF&title_bg=%23686DE0&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/JKyEun)
-  
+
 ### 🐳 Introduce
-<hr />
-- 안녕하세요! <span style="color: #2D739F">개발이 재미있는 사람</span>, 장경은입니다.<br />
+---
+- 안녕하세요! **개발이 재미있는 사람**, 장경은입니다.<br />
 - 프론트엔드 개발자를 꿈꾸며 꾸준히 성장 중입니다.<br />
 - 성실성과 꾸준함, 기록하는 것을 중요하게 생각합니다.
 <br /><br /><br />
 
 ### 📚 Study Record
-<hr />
+---
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://synonymous-island-173.notion.site/Kyung-Eun-s-Study-Note-0740f1d7a11947b19dd516b01b07fd21)
 <br /><br /><br />
 
 ### 🛠 Skills
-<hr />
+---
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white)
@@ -35,7 +34,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 <br /><br /><br />
 
-### 💾 Baekjoon
-<hr />
+### 🌊 Baekjoon
+---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j56237)](https://solved.ac/j56237/)
 <br />
