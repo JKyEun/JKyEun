@@ -5,12 +5,7 @@
 ---
 - 안녕하세요! **개발이 재미있는 사람**, 장경은입니다.<br />
 - 프론트엔드 개발자를 꿈꾸며 꾸준히 성장 중입니다.<br />
-- 성실성과 꾸준함, 기록하는 것을 중요하게 생각합니다.
-<br /><br /><br />
-
-### 📚 Study Record
----
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://synonymous-island-173.notion.site/Kyung-Eun-s-Study-Note-0740f1d7a11947b19dd516b01b07fd21)
+- 성실성과 꾸준함, [기록하는 것](https://synonymous-island-173.notion.site/Kyung-Eun-s-Study-Note-0740f1d7a11947b19dd516b01b07fd21)을 중요하게 생각합니다.
 <br /><br /><br />
 
 ### 🛠 Skills
