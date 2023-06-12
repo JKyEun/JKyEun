@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:22a6b3,100:7ed6df&height=200&section=header&text=Jang%20Kyung-eun&desc=JKyEun&descAlign=83&descAlignY=50&descSize=23&animation=fadeIn&fontSize=70&fontAlign=65&fontAlignY=30&fontColor=ecf0f1)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJKyEun&count_bg=%237ED6DF&title_bg=%23686DE0&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/JKyEun)
 
 ### 🐳 Introduce
 ---
 - 안녕하세요! **꾸준히 성장하는 사람**, 장경은입니다.<br />
-- 성실성과 꾸준함, <a href="https://jkyeun.notion.site/jkyeun/JKE-commit-m-My-Knowledge-0740f1d7a11947b19dd516b01b07fd21" target="_blank">기록하는 것</a>을 중요하게 생각합니다.<br />
+- 성실하고 꾸준하며, 항상 <a href="https://jkyeun.notion.site/jkyeun/JKE-commit-m-My-Knowledge-0740f1d7a11947b19dd516b01b07fd21" target="_blank">기록하는 습관</a>을 가지고 있습니다.<br />
 - 추진력이 좋고, 몰입할 줄 아는 사람입니다.
 - 사용자의 경험을 듣고 개선하는 것에 관심이 많습니다.<br />
 <br /><br /><br />
