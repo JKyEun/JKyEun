@@ -37,8 +37,3 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 <br /><br /><br />
-
-### 🌊 Baekjoon
----
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j56237)](https://solved.ac/j56237/)
-<br /><br />
