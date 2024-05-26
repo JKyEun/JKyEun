@@ -19,3 +19,4 @@
 - [🕸️ Computer Network](https://jkyeun.notion.site/69c652a3e8aa44ee8583049f46f05e61)
 - [⚙️ Algorithm](https://jkyeun.notion.site/5244ab80f1564caaba42f7ae0dba6420)
 - [📘 React Deep Dive](https://jkyeun.notion.site/React-Deep-Dive-7b7489aac419493288cf94918bc123e2?pvs=25)
+- [🌈 우아한 타입스크립트 With 리액트](https://jkyeun.notion.site/with-178d78de53de4a129f478b0a24b4eea2)
